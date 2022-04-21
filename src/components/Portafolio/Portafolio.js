@@ -13,42 +13,49 @@ function Portafolio() {
             nombre: 'Space Tourism',
             leng: 'React',
             desc: 'Pagina que simula viajes por el espacio presentando planetas, crew y tecnologías',
-            url: 'https://space-tourism-eosin.vercel.app/'
+            url: 'https://space-tourism-eosin.vercel.app/',
+            github: 'https://github.com/karlapgz/space-tourism'
         },
         {
             id: 2,
             nombre: 'URL shortening',
             leng: 'HTML, CSS, JS, API',
             desc: 'Página web que acorta links, use la API shortening y los links se van juntando en una lista donde cada uno tiene un botón para copiar el nuevo link.',
-            url: 'https://url-shortening-api-nu.vercel.app/'
+            url: 'https://url-shortening-api-nu.vercel.app/',
+            github: 'https://github.com/karlapgz/url-shortening-api'
+
         },
         {
             id: 3,
             nombre: 'Sunnyside agency',
             leng: 'HTML, CSS, JS, Responsive',
             desc: 'Agencia creativa especializada en ayudar a las marcas a crecer rápidamente, es responsive en celular.',
-            url: 'https://sunnyside-agency-landing-page-main-murex.vercel.app/'
+            url: 'https://sunnyside-agency-landing-page-main-murex.vercel.app/',
+            github: 'https://github.com/karlapgz/sunnyside-agency-landing-page-main'
         },
         {
             id: 4,
             nombre: 'Library',
             leng: 'HTML, CSS, JS',
             desc: 'Librería que simula fichas de libros, donde se pueden registrar el nombre, autor, núm. de páginas y si se ha leído o no. Al actualizar la página no se pierden los registros.',
-            url: 'https://library-pearl.vercel.app/'
+            url: 'https://library-pearl.vercel.app/',
+            github: 'https://github.com/karlapgz/Library'
         },
         {
             id: 5,
             nombre: 'Pomodoro timer',
             leng: 'HTML, CSS, JS',
             desc: 'Pomodro Timer permite poner un temporizador de 25 minutos para trabajar/estudiar, además la página permite poner música lofi si se desea.',
-            url: 'https://pomodoro-timer-sandy.vercel.app/'
+            url: 'https://pomodoro-timer-sandy.vercel.app/',
+            github: 'https://github.com/karlapgz/Pomodoro-Timer'
         },
         {
             id: 6,
             nombre: 'Tip calculator',
             leng: 'HTML, CSS, JS',
             desc: 'Tip calculator calcula la propina y el costo total por persona.',
-            url: 'https://tip-calculator-app-green.vercel.app/'
+            url: 'https://tip-calculator-app-green.vercel.app/',
+            github: 'https://github.com/karlapgz/Tip-calculator-app'
         },
         
     ]

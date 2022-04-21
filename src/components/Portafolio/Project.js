@@ -4,7 +4,7 @@ import './Project.css'
 
 function Project(props) {
 
-  const {nombre, leng, desc, url} = props.projects;
+  const {nombre, leng, desc, url, github} = props.projects;
  
   return (
     <div className="item-proj">
@@ -21,6 +21,7 @@ function Project(props) {
             <p className='descripcion'>{desc}</p>
             <div className='boton-link-page'>
               <a className='link-page' href={url} target='_blank' rel='noreferrer'>Ver página</a>
+              <a className='link-page github' href={github} target='_blank' rel='noreferrer'>Github</a>
             </div>
           </div>
         </div>

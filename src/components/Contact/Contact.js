@@ -27,7 +27,7 @@ const Contact = () => {
                     <form ref={form} onSubmit={enviarEmail}>
                         <label>Nombre</label>
                         <br/>
-                        <input type='text' name="user_name" placeholder='Nombre' required="required"/>
+                        <input type='text' name="user_name" placeholder='Beatriz R.' required="required"/>
                         <br/>
 
                         <label>Email</label>

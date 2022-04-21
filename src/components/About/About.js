@@ -20,9 +20,10 @@ function About() {
         <section className="info">
           <h1>Karla Guzmán</h1>
           <p>
-            Actualmente soy estudiante de Informática y de manera autodidacta
+            Actualmente soy estudiante de octavo semestre de la carrera en Informática y de manera autodidacta
             estudio Frontend, me siento cómoda trabajando con HTML, CSS, JS, SQL
-            y estoy aprendiendo React. Me gusta dibujar en pixel art, arte en
+            y estoy aprendiendo React, busco una oportunidad en una empresa donde pueda desempeñar mis conocimientos 
+            y adquirir nuevos junto a un equipo de trabajo. Me gusta dibujar en pixel art, arte en
             3D, ver películas y las <span>ranitas</span> obvio.
           </p>
           <div className="skills">

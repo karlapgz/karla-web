@@ -41,4 +41,9 @@ p {
     padding: 0.5rem 1rem;
     border-radius: 25px;
     color: #000;
+    margin: 0 1rem;
+}
+
+.github {
+    background-color: #FEE440;
 }

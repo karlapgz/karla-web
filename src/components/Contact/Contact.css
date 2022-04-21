@@ -29,9 +29,10 @@ input {
     margin-bottom: 1rem;
     font-size: 0.9rem;
     text-align: center;
-    border: 1px solid #000;
-    border-radius: 5px;
-    background-color: #fff;
+    border: none;
+    border-bottom: 2px solid #333;
+    border-radius: 2px;
+    background-color: transparent;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -62,4 +63,5 @@ textarea {
     margin: 1rem auto;
     letter-spacing: 2px;
     font-size: 1rem;
+    font-weight: bold;
 }
