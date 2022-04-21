@@ -27,17 +27,17 @@ const Contact = () => {
                     <form ref={form} onSubmit={enviarEmail}>
                         <label>Nombre</label>
                         <br/>
-                        <input type='text' name="user_name" placeholder='Nombre'/>
+                        <input type='text' name="user_name" placeholder='Nombre' required="required"/>
                         <br/>
 
                         <label>Email</label>
                         <br/>
-                        <input type='email' name="user_email" placeholder='ejemplo@email.com'/>
+                        <input type='email' name="user_email" placeholder='ejemplo@email.com' required="required"/>
                         <br/>
 
                         <label>Mensaje</label>
                         <br/>
-                        <textarea name="message"/>
+                        <textarea name="message" required="required"/>
                         <br/>
                         <input className='btn-submit' type='submit'/>
                     </form>
